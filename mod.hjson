@@ -2,6 +2,7 @@ name: quick-complete
 displayName: 快速补全
 description: 我们添加了微软大战代码到MDT，请善用你的方向键与TAB
 author: QQQW114
+repo: QQQW114/mdt-quick-complete
 version: 1.1
 minGameVersion: "159.7"
 java: true
